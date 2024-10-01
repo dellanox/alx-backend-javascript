@@ -1,0 +1,1 @@
+Readme file for the project detaileing how to set up a NodeJS environment
